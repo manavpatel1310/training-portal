@@ -12,7 +12,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
-    "bootstrap": "^4.6.1",
+    "bootstrap": "^5.2.3",
     "browser-sync": "^2.26.3",
     "file-system": "^2.2.2",
     "gulp": "^4.0.2",
